@@ -6,8 +6,6 @@
 
 > [!CAUTION]
 > **‼️ DISCLAIMER**
-> No fork of this project will receive support. If you use this fork, please ask the maintainer of this repository for support.
->
 > This project is a migration of NewPipe from Java to Kotlin, developed using modern tools and AI assistance. As it is currently in an **Alpha Stage**, you may encounter bugs and inconsistencies. This is a personal project dedicated to exploring improved UI/UX and serving as a foundation for a future TV application. Future versions will focus on refined logic flow, high-quality documentation, and better file organization.
 
 ---
